@@ -4,3 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+getch = "0.3.1"
+owo-colors = "4.3.0"
+rand = "0.10.0"
+thiserror = "2.0.18"
